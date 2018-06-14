@@ -814,6 +814,12 @@ a:active, a:focus {
   background: transparent;
 }
 
+.bgded-img{
+	height: 50vh;
+	width: 100vw;
+	position: fixed;
+}
+
 /* IE10 + 11 Bugfix - prevents grey background */
 
 hr, .borderedbox {
